@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="gmailTest" duration-ms="62411" started-at="2017-11-30T11:50:02Z" finished-at="2017-11-30T11:51:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="62411" started-at="2017-11-30T11:50:02Z" finished-at="2017-11-30T11:51:04Z">
+      <class name="gmailTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:gmailTest@3f3afe78]" name="loginTest" duration-ms="62363" started-at="2017-11-30T17:20:02Z" finished-at="2017-11-30T17:21:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- gmailTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- gmailTest -->
+</testng-results>
